@@ -8,7 +8,7 @@ Telecom companies lose revenue due to customer churn. The goal of this project i
 To predict customer churn and identify the features that most influence customer behavior using machine learning models.
 
 ## 📁 Dataset
-- **Source**: [Mention dataset source or link]
+- **Source**: Kaggle
 - **Total Records**: 7043
 - **Target Column**: `Churn` (Yes or No)
 - **Features**: Customer demographics, account details, service usage, etc.
